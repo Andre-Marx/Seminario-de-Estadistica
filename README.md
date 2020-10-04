@@ -1,2 +1,2 @@
 # Seminario-de-Estadistica
-Tareas que realicé durante el seminario de estadística en la UNAM.
+Tareas y proyecto que realicé durante el seminario de estadística en la UNAM.
